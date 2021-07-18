@@ -7,7 +7,7 @@ Database: MySQL
 ##################################################################################################
 
 Working:
-First of all open the index.php page which is the Registration page. On successful registration it redirects to Login.php which on successful login redirects to Thankyou.html
+First of all open the index.php page which is the Registration page. You will have to provide your profile picture also for successful registration. On successful registration it redirects to Login.php which on successful login redirects to Thankyou.html
 Also there is a link on Registartion page that will take you to Login page. Similarly, there is a link on Login page that will redirect you to Registration page.
 All the uploaded profile pictures are stored in 'uploads' folder.
 
